@@ -24,4 +24,4 @@ Se añadieron todos los assets y se montó la escena sin texturas. Se hizo uso d
 Se puede acceder al proyecto directamente desde el siguiente enlace: https://rodorce.github.io/proyecto-final-graficas/
 
 Captura de pantalla:
-[avance2] (https://raw.githubusercontent.com/rodorce/proyecto-final-graficas/main/screenshots/avance2.PNG)
+![avance2](https://raw.githubusercontent.com/rodorce/proyecto-final-graficas/main/screenshots/avance2.PNG)
