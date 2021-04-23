@@ -22,3 +22,6 @@ Descripción
 
 Se añadieron todos los assets y se montó la escena sin texturas. Se hizo uso de TreeJS editor. 
 Se puede acceder al proyecto directamente desde el siguiente enlace: https://rodorce.github.io/proyecto-final-graficas/
+
+Captura de pantalla:
+[avance2] (/screenshots/avance2.PNG)
