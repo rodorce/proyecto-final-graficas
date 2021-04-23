@@ -1,6 +1,6 @@
 # proyecto-final-graficas
 
-##Primer avance
+## Primer avance
 
 Descripción
 El proyecto final consistirá en crear una escena en una colina de una ciudad donde un patinador va 
