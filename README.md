@@ -1,4 +1,5 @@
 # proyecto-final-graficas
+Rodolfo Ramírez Cedillo A00820906
 
 ## Primer avance
 
