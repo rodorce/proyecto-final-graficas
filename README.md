@@ -40,4 +40,4 @@ Descripcion
 Se añadió un skybox (no se llega a ver en el ángulo de la cámara) con un cielo despejado, las texturas de la calle y el pasto, y finalmente el script que permite a los autos moverse (tuve que cambiar el modelo de un skater a un carro por el hecho de que por cuestiones de tiempo era dificil encontrar un modelo o modelarlo).
 
 Captura de pantalla:
-![avance3] (https://raw.githubusercontent.com/rodorce/proyecto-final-graficas/main/screenshots/avance3.PNG)
+![avance3](https://raw.githubusercontent.com/rodorce/proyecto-final-graficas/main/screenshots/avance3.PNG)
