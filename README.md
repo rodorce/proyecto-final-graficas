@@ -41,3 +41,4 @@ Se añadió un skybox (no se llega a ver en el ángulo de la cámara) con un cie
 
 Captura de pantalla:
 ![avance3](https://raw.githubusercontent.com/rodorce/proyecto-final-graficas/main/screenshots/avance3.PNG)
+ https://rodorce.github.io/proyecto-final-graficas/
